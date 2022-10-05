@@ -10,6 +10,6 @@ function App() {
       the browser as you write your code; and good luck!
     </div>
   );
-}
+  }
 
 export default App;
